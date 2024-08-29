@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+*.venv
+env/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Git directory
+.git/
+
+# Docker files (optional, depending on your setup)
+# Dockerfile
+# docker-compose.yml
+
+# Other files
+*.log
+*.sqlite3
+
+# Directories
+test/
+tests/
